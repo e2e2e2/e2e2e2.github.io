@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: NHN 루키 8기 이병찬
+title: 블로그
 
 # Your name to show in the footer
 author: 이병찬
@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "bclee@nhn.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: ???
+  github: ???
+  twitter: ???
+  patreon: ???
+  youtube: ???
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -95,16 +95,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+navbar-col: "#CAEAEA"
+navbar-text-col: "#204040"
+navbar-border-col: "#ADDDDD"
+page-col: "#DFFFFF"
+text-col: "#204040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#CAEAEA"
+footer-text-col: "#577777"
+footer-link-col: "#204040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
