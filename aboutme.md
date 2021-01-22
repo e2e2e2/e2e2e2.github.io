@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: ㅎㅎ
+subtitle: ***
 ---
 
-nhn 루키 8기 이병찬:
+NHN
+루키 8기
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-ㅇㅇ
+### 3
+##2
+#1
