@@ -4,4 +4,6 @@ title: About me
 subtitle: ***
 ---
 
-- NHN 루키토끼 TF
+###이
+- NHN ROOKIE 8기
+- 루키토끼 TF
