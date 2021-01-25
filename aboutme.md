@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: ***
+subtitle: 이병
 ---
 
 ### - NHN ROOKIE 8기
