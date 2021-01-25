@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: *** ## 이병찬
+subtitle: ## 이병찬
 ---
 
 ### - NHN ROOKIE 8기
